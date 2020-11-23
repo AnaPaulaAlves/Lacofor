@@ -1,0 +1,13 @@
+C:\Users\wnova\Desktop\Backend\Console\laçofor\obj\Debug\netcoreapp3.1\laçofor.csprojAssemblyReference.cache
+C:\Users\wnova\Desktop\Backend\Console\laçofor\obj\Debug\netcoreapp3.1\laçofor.AssemblyInfoInputs.cache
+C:\Users\wnova\Desktop\Backend\Console\laçofor\obj\Debug\netcoreapp3.1\laçofor.AssemblyInfo.cs
+C:\Users\wnova\Desktop\Backend\Console\laçofor\obj\Debug\netcoreapp3.1\laçofor.csproj.CoreCompileInputs.cache
+C:\Users\wnova\Desktop\Backend\Console\laçofor\bin\Debug\netcoreapp3.1\laçofor.exe
+C:\Users\wnova\Desktop\Backend\Console\laçofor\bin\Debug\netcoreapp3.1\laçofor.deps.json
+C:\Users\wnova\Desktop\Backend\Console\laçofor\bin\Debug\netcoreapp3.1\laçofor.runtimeconfig.json
+C:\Users\wnova\Desktop\Backend\Console\laçofor\bin\Debug\netcoreapp3.1\laçofor.runtimeconfig.dev.json
+C:\Users\wnova\Desktop\Backend\Console\laçofor\bin\Debug\netcoreapp3.1\laçofor.dll
+C:\Users\wnova\Desktop\Backend\Console\laçofor\bin\Debug\netcoreapp3.1\laçofor.pdb
+C:\Users\wnova\Desktop\Backend\Console\laçofor\obj\Debug\netcoreapp3.1\laçofor.dll
+C:\Users\wnova\Desktop\Backend\Console\laçofor\obj\Debug\netcoreapp3.1\laçofor.pdb
+C:\Users\wnova\Desktop\Backend\Console\laçofor\obj\Debug\netcoreapp3.1\laçofor.genruntimeconfig.cache
